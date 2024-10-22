@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    font-family: Raleway;
+    font-family: Roboto;
     background:linear-gradient(to right, #f1ade3, #9372ed);
 }
 
@@ -35,7 +35,7 @@ article,
 }
 
 article time{
-    font-weight: 200;
+    font-weight: 300;
     font-style: italic;
     font-size: 0.9em;
 }
